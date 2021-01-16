@@ -1,0 +1,11 @@
+Model Information:
+* title:	An afternoon in a Persian Garden
+* source:	https://sketchfab.com/3d-models/an-afternoon-in-a-persian-garden-b13afbaf1aae4f6aad03aaa081ce471e
+* author:	Shahriar Shahrabi (https://sketchfab.com/shahriyarshahrabi)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "An afternoon in a Persian Garden" (https://sketchfab.com/3d-models/an-afternoon-in-a-persian-garden-b13afbaf1aae4f6aad03aaa081ce471e) by Shahriar Shahrabi (https://sketchfab.com/shahriyarshahrabi) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
