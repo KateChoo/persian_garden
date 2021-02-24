@@ -14,7 +14,6 @@ function init() {
   const near = 0.1;
   const far = 1000;
 
-
   camera = new THREE.PerspectiveCamera(fov, aspect, near, far);
   camera.position.set(0, 45, 1000);
   //=============scene, camera END================//
@@ -22,7 +21,7 @@ function init() {
   //=============light================//
   const ambient = new THREE.AmbientLight(0x404040, 2);
   scene.add(ambient);
- 
+
   const light = new THREE.DirectionalLight(0xffffff, 5);
   light.position.set(50, 50, 100);
   scene.add(light);
@@ -38,7 +37,7 @@ function init() {
 
   //==============GLTF ================//
   let loader = new THREE.GLTFLoader();
-  loader.load("./persian_garden/scene.gltf", function(gltf) {
+  loader.load("./persian_garden/scene.gltf", function (gltf) {
     scene.add(gltf.scene);
     garden = gltf.scene.children[0];
     animate();
@@ -47,7 +46,7 @@ function init() {
 
 function animate() {
   requestAnimationFrame(animate);
-  //garden.rotation.z += 0.005;
+  //garden.rotation.x += 0.005;
   renderer.render(scene, camera);
 }
 
